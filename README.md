@@ -1,4 +1,4 @@
-A big script about updating the Fedora 42 operating system in Linux.
+A big script about updating the Fedora 42 operating system on Linux.
 
 - checking the internet connection (important for the download of the updates)
 - checking whether the user is root (a lot of commands only works with sudo rights)
